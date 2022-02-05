@@ -1,0 +1,15 @@
+
+.classpath
+.idea/codeStyles/Project.xml
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+.idea/codeStyles/codeStyleConfig.xml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/vcs.xml
+target/jacoco.exec
+/target/
